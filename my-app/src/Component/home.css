@@ -1,0 +1,26 @@
+.form {
+  height: auto;
+  width: 35%;
+  margin: auto;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  font-weight: 200;
+}
+
+input,
+button,
+select {
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: lightseagreen;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
