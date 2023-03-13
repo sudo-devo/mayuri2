@@ -1,0 +1,29 @@
+.image {
+  height: 90px;
+  width: 80%;
+  margin: auto;
+}
+
+.detail {
+  height: 90px;
+  width: 80%;
+  margin: auto;
+}
+.d {
+  border: 1px solid gray;
+  width: 80%;
+}
+
+.d span {
+  color: red;
+}
+
+.likes {
+  border: none;
+}
+
+.like {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
